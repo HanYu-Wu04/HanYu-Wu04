@@ -3,7 +3,7 @@
 [![email](https://img.shields.io/badge/-hanyuwu@gmail.com-black?labelColor=black&logo=gmail&logoColor=white&style=flat-square)](mailto:hanyuwu04.com)
 [![LinkedIn](https://img.shields.io/badge/-HanYu--Wu04-black?labelColor=black&logo=linkedin&logoColor=white&style=flat-square)](https://linkedin.com/in/HanYu-Wu04)
 
-Fullstack Developer / Mobile App Developer
+Full Stack Developer / Mobile Application Developer
 
 ### ⚒ Skills
 🥪 **Front End** / 🥗 **Backend**
@@ -16,6 +16,7 @@ Fullstack Developer / Mobile App Developer
 
 ### 🙌 Experiences & Roles
 
-- [Creek-Lands-Conservation](https://github.com/HanYu-Wu04/creek-lands-conservation) (Tech Lead)
+- [Creek-Lands-Conservation](https://github.com/HanYu-Wu04/Creek-Lands-Conservation) (Tech Lead)
 - [iSearch-CalPoly](https://github.com/iSearch-CalPoly/mobile-frontend) (Mobile App Developer)
 - [Slo-Beaver-Brigade](https://github.com/hack4impact-calpoly/slo-beaver-brigade) (Software Developer)
+- [DormMe] (Software Developer)
