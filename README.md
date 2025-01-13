@@ -17,6 +17,7 @@ Full Stack Developer / Mobile Application Developer
 ### 🙌 Experiences & Roles
 
 - [Creek-Lands-Conservation](https://github.com/HanYu-Wu04/Creek-Lands-Conservation) (Tech Lead)
+- [DormMe](https://github.com/dormme/app) (Software Developer)
+- [Vera](https://github.com/CS-Social-Good-CalPoly/Vera) (Software Developer)
 - [iSearch-CalPoly](https://github.com/iSearch-CalPoly/mobile-frontend) (Mobile App Developer)
 - [Slo-Beaver-Brigade](https://github.com/hack4impact-calpoly/slo-beaver-brigade) (Software Developer)
-- [DormMe](https://github.com/dormme/app) (Software Developer)
