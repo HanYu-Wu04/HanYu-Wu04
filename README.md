@@ -14,10 +14,14 @@ Full Stack Developer / Mobile Application Developer
 ### 🔨 Tools I Use
 [![My Skills](https://skillicons.dev/icons?i=mysql,sqlite,git,npm,yarn,babel,anaconda,github,figma,aws,azure,cloudflare,vercel)](https://skillicons.dev)
 
-### 🙌 Experiences & Roles
+### 🙌 Current Experiences & Roles
 
-- [Creek-Lands-Conservation](https://github.com/HanYu-Wu04/Creek-Lands-Conservation) (Tech Lead)
-- [DormMe](https://github.com/dormme/app) (Software Developer)
+- [DormMe](https://github.com/dormme/app) (CTO)
+- [Creek-Lands-Conservation](https://github.com/hack4impact-calpoly/Creek-Lands-Conservation) (Tech Lead)
+- [iSearch-CalPoly](https://github.com/iSearch-CalPoly/mobile-frontend) (Mobile App Team Lead)
+
+
+### 🙌 Previous Experiences & Roles
+
 - [Vera](https://github.com/CS-Social-Good-CalPoly/Vera) (Software Developer)
-- [iSearch-CalPoly](https://github.com/iSearch-CalPoly/mobile-frontend) (Mobile App Developer)
 - [Slo-Beaver-Brigade](https://github.com/hack4impact-calpoly/slo-beaver-brigade) (Software Developer)
