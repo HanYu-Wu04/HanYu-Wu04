@@ -16,12 +16,13 @@ Full Stack Developer / Mobile Application Developer
 
 ### 🙌 Current Experiences & Roles
 
-- [DormMe](https://github.com/dormme/app) (CTO)
-- [Creek-Lands-Conservation](https://github.com/hack4impact-calpoly/Creek-Lands-Conservation) (Tech Lead)
-- [iSearch-CalPoly](https://github.com/iSearch-CalPoly/mobile-frontend) (Mobile App Team Lead)
+- LeetDate (CEO)
 
 
 ### 🙌 Previous Experiences & Roles
 
+- DormMe (CTO)
+- [Creek-Lands-Conservation](https://github.com/hack4impact-calpoly/Creek-Lands-Conservation) (Tech Lead)
+- [iSearch-CalPoly](https://github.com/iSearch-CalPoly/mobile-frontend) (Mobile App Team Lead)
 - [Vera](https://github.com/CS-Social-Good-CalPoly/Vera) (Software Developer)
 - [Slo-Beaver-Brigade](https://github.com/hack4impact-calpoly/slo-beaver-brigade) (Software Developer)
