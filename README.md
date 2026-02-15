@@ -16,7 +16,7 @@ Full Stack Developer / Mobile Application Developer
 
 ### 🙌 Current Experiences & Roles
 
-- LeetDate (CEO)
+- CampusIRL (Founder)
 
 
 ### 🙌 Previous Experiences & Roles
